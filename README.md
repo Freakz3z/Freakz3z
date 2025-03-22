@@ -2,18 +2,20 @@
 你好！我是一名2023级的软件工程专业学生，立志成为一名优秀的软件工程师和AI工程师。
 
 ## 🛠️ 技能
-- **编程语言**:
-- - C/C++
+### **编程语言**:
+  - C/C++
   - Python
   - Java
   - JavaScript
-- **Web开发**:
+ 
+### **Web开发**:
   - Django
   - Vue3 
   - HTML
   - CSS
   - JavaScript
-- **AI**:
+ 
+### **AI**:
   - YOLO 
   - PyTorch
   - TensorFlow
