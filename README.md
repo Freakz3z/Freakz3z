@@ -1,26 +1,6 @@
 ## 👋 关于我
 你好！我是一名2023级的软件工程专业学生，立志成为一名优秀的软件工程师和AI工程师。
 
-## 🛠️ 技能
-### **编程语言**:
-  - C/C++
-  - Python
-  - Java
-  - JavaScript
- 
-### **Web开发**:
-  - Django
-  - Vue3 
-  - HTML
-  - CSS
-  - JavaScript
- 
-### **AI**:
-  - YOLO 
-  - PyTorch
-  - TensorFlow
-  - LLM Finetune
-
 ## 📫 联系我
 如果你对我的项目感兴趣或者想交流，欢迎通过以下方式联系我：
 - 邮箱: [202324120444@hainnu.edu.cn](202324120444@hainnu.edu.cn)
