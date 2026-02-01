@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ 核心技术栈 | Tech Stack
+### 🛠️ 技术栈 | Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -48,7 +48,7 @@
 
 ---
 
-### 🔧 当前项目 | Current Projects
+### 🔧 项目 | Projects
 
 - **[Muse](https://github.com/Freakz3z/Muse)** - _A modern application for English learning with AI integration (Spaced Repetition & Cross-platform)._  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-000000?style=flat&logo=electron&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat) ![MIT License](https://img.shields.io/badge/MIT%20License-A1A1A1?style=flat)
@@ -61,8 +61,6 @@
 
 - **[Life-Calendar](https://github.com/Freakz3z/Life-Calendar)**  - _A modern life logging app to record events, goals, and to-dos in one sentence._  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Minimalist](https://img.shields.io/badge/Minimalist-%237B68EE?style=flat)
-
-### 🏛️ 以往项目 | Past Projects
 
 - **[Vusic](https://github.com/Freakz3z/Vusic)**  - _High-performance audio reactive visualizer._  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-%2345B994?style=flat) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
