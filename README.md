@@ -50,7 +50,7 @@
 
 ### 🔧 项目 | Projects
 
-- **[nanoboard](https://github.com/Freakz3z/nanoboard) - An Ultra-lightweight nanobot Tauri Management Assistant.
+- **[nanoboard](https://github.com/Freakz3z/nanoboard)** - An Ultra-lightweight nanobot Tauri Management Assistant.
 
 - **[Muse](https://github.com/Freakz3z/Muse)** - A modern application for English learning with AI integration (Spaced Repetition & Cross-platform).
 
