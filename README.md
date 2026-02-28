@@ -52,6 +52,8 @@
 
 - **[nanoboard](https://github.com/Freakz3z/nanoboard)** - An Ultra-lightweight nanobot Tauri Management Assistant.
 
+- **[MD2Anything](https://github.com/Freakz3z/MD2Anything)** - Markdown is all you need.
+
 - **[Muse](https://github.com/Freakz3z/Muse)** - A modern application for English learning with AI integration (Spaced Repetition & Cross-platform).
 
 - **[GitHub-Wrapped](https://github.com/Freakz3z/GitHub-Wrapped)**  - Discover your coding year in review with interactive data visualizations.
